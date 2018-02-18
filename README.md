@@ -1,3 +1,7 @@
+# Ссылка на редактирование опроса (шаг 1):
+<https://docs.google.com/forms/d/1J6-WD8xpTrdu4Hvq1LHYZ634D32kKHoV_7NzERD5Wxw/edit?usp=sharing>
+
+
 # Ссылки и комментарии к ним (шаг 2):
 
 **Ссылка на форму:** <https://docs.google.com/forms/d/e/1FAIpQLSeNdcXPxyDEEOYNu8KpQ7G3qqWQzGG0raqSnG_vdUNlLRCA4Q/viewform?usp=sf_link#responses>
