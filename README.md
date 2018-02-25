@@ -4,7 +4,7 @@
 
 Опрос был о предпочитаемых жанрах кино, осведомлённости о последних киноновинках и предпочтений, касающихся процесса просмотра фильмов. Прошло __104__ человека. 
 
-**Ссылка на таблицу:** <https://docs.google.com/spreadsheets/d/1CzKQEPY6LOXwrFN5xHJJWfj24F0s3ki5TlXDIIK_-3w/edit?usp=sharing>
+**Ссылка на таблицу (открыт доступ на редактирование):** <https://docs.google.com/spreadsheets/d/1CzKQEPY6LOXwrFN5xHJJWfj24F0s3ki5TlXDIIK_-3w/edit?usp=sharing>
 
 Диаграммы созданы на отдельных листах. 
 
